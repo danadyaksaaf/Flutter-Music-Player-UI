@@ -1,16 +1,8 @@
-# home_page_ui
+# FLUTTER HOME PAGE UI
 
-A new Flutter project.
+This is a simple UI that i create as a progress for my Flutter Journey.
+A Music Player Home page that implements material design, consists of white and blue color.
 
-## Getting Started
+It's a static app, but i add some play button with stateful widget, so the button is kinda "playing" or "pause".
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'm a beginner you can help me or teach me for building a better apps.
